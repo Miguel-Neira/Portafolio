@@ -139,7 +139,7 @@ window.MIGUEL = {
     {
       role: { es: 'Encargado de Ventas y Atención al Cliente', en: 'Sales & Customer Service Lead' },
       company: 'Epic Animes · Paseo Concha y Toro',
-      period: { es: '2021 — Presente', en: '2021 — Present' },
+      period: { es: '2021 — 2025', en: '2021 — 2025' },
       bullets: {
         es: [
           'Liderazgo en atención directa y resolución de conflictos comerciales en entornos de alta demanda.',
