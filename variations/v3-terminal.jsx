@@ -237,7 +237,7 @@ const V3 = (() => {
         {[
           { k: 'email', v: t.email, href: `mailto:${t.email}` },
           { k: 'phone', v: t.phone, href: `tel:${t.phone.replace(/\s/g, '')}` },
-          { k: 'linkedin', v: 'linkedin.com/in/miguel-neira', href: t.linkedin },
+          { k: 'linkedin', v: 'linkedin.com/in/miguel-neira-nadal-906274332', href: t.linkedin },
           { k: 'github', v: 'github.com/miguel-neira', href: t.github },
         ].map((c, i) => (
           <a key={c.k} href={c.href} style={{ padding: '22px 24px', borderBottom: i < 2 ? `1px solid ${C.rule}` : 'none', borderRight: i % 2 === 0 ? `1px solid ${C.rule}` : 'none', color: C.ink, textDecoration: 'none', display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
