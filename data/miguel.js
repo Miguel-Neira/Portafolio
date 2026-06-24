@@ -8,7 +8,7 @@ window.MIGUEL = {
   location: { es: 'Puente Alto, Región Metropolitana, Chile', en: 'Puente Alto, Santiago, Chile' },
   phone: '+56 9 3120 4159',
   email: 'miguel.neira0513@gmail.com',
-  linkedin: 'www.linkedin.com/in/miguel-neira-nadal-906274332',
+  linkedin: 'https://linkedin.com/in/miguel-neira-nadal-906274332',
   github: 'https://github.com/miguel-neira',
   cvFile: 'uploads/CV_Miguel_Neira_Nadal.pdf',
 
