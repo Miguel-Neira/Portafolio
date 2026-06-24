@@ -247,7 +247,7 @@ const V3 = (() => {
         ))}
       </div>
       <div style={{ marginTop: 40, fontFamily: 'var(--mono-v3)', fontSize: 10, color: C.mute, letterSpacing: 1.5, textTransform: 'uppercase' }}>
-        "Miguel Neira Nadal"
+        <p>Miguel Neira Nadal</p>
       </div>
     </section>
   );
