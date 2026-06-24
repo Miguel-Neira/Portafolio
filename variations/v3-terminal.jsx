@@ -247,7 +247,7 @@ const V3 = (() => {
         ))}
       </div>
       <div style={{ marginTop: 40, fontFamily: 'var(--mono-v3)', fontSize: 10, color: C.mute, letterSpacing: 1.5, textTransform: 'uppercase' }}>
-        $ echo "© 2026 · miguel neira n. · {t.ui.hostingNote[lang]}"
+        Miguel Neira Nadal"
       </div>
     </section>
   );
