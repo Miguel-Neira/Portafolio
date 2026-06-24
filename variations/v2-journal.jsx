@@ -254,7 +254,7 @@ const V2 = (() => {
         {[
           { k: 'EMAIL', v: t.email, href: `mailto:${t.email}` },
           { k: 'TEL', v: t.phone, href: `tel:${t.phone.replace(/\s/g, '')}` },
-          { k: 'LINKEDIN', v: '/miguel-neira', href: t.linkedin },
+          { k: 'LINKEDIN', v: '/miguel-neira-nadal-906274332', href: t.linkedin },
           { k: 'GITHUB', v: '@miguel-neira', href: t.github },
         ].map(c => (
           <a key={c.k} href={c.href} style={{ color: C.bg, textDecoration: 'none', display: 'block' }}>
